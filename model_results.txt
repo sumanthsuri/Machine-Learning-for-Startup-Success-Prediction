@@ -1,0 +1,3 @@
+Logistic Regression: 0.88
+Random Forest: 1.00
+Decision Tree: 1.00
